@@ -1,0 +1,28 @@
+# Environment & Secrets
+.env
+.env.*
+
+# Python Virtual Environments
+.venv/
+env/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Testing caches
+.pytest_cache/
+workspace/.pytest_cache/
+
+# Logs & temp files
+logs/
+*.log
+
+# Frontend (Node / Next.js)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.vercel/
+
